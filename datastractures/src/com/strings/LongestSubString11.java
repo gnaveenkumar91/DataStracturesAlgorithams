@@ -12,6 +12,7 @@ public class LongestSubString11 {
 		 char ch= s.charAt(right);
 		 
 		 arr[ch]++;
+		
 		 
 		 while(arr[ch]>1) {
 			 char leftChar=s.charAt(left);

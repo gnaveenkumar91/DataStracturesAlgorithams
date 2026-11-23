@@ -7,8 +7,8 @@ public class twoarraycombine3 {
           int a1Length=a1.length;
           
           
-          int[] a2= {40,50,60};
-          int a2Length=a1.length;
+          int[] a2= {40,50,60,70};
+          int a2Length=a2.length;
           
           int[] a3= new int[a1Length+a2Length];
           for(int i=0;i<a1.length;i++) {

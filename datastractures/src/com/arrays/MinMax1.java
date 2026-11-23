@@ -15,8 +15,8 @@ public class MinMax1 {
            }
           
 		}
-		 System.out.println("Min"+min);
-         System.out.println("Max"+max);
+		 System.out.println("Min : " +min);
+         System.out.println("Max : " +max);
         
 	}
 
