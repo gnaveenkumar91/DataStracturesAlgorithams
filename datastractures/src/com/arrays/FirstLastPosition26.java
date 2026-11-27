@@ -1,5 +1,5 @@
 package com.arrays;
-
+//binary search
 public class FirstLastPosition26 {
 
     public static void main(String[] args) {

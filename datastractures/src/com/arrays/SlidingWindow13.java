@@ -12,6 +12,7 @@ public class SlidingWindow13 {
 		int avg=sum/days;
 		System.out.println("First visited total sum ; " + sum);
 		System.out.println("Avg :" + avg);
+		
 		for(int i=1;i<=arr.length-days;i++) {
 			sum=sum - arr[i-1] + arr[days+i-1];
 			avg=sum/days;

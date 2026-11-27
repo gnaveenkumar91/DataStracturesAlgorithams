@@ -4,6 +4,7 @@ public class PrefixSum11 {
 
 	public static void main(String[] args) {
 		int[] arr= {5,10,20,50,100};
+		
 		int[] prefix=new int[arr.length];
 		
 		prefix[0]=arr[0];
